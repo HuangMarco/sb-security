@@ -1,0 +1,6 @@
+{
+  'client_id': 'sbclient',
+  'username': 'test',
+  'password': '123456',
+  'grant_type': 'password'
+}
