@@ -1,0 +1,12 @@
+#server:
+#  port: 8081
+#keycloak:
+#  auth-server-url: http://127.0.0.1:8080/auth #http://192.168.3.17:8080/auth
+#  realm: sbrealm
+#  resource: sbclient2
+#  public-client: true
+#  principal-attribute: preferred_username
+#  security-constraints[0]:
+#    authRoles[0]: user
+#    securityCollections[0]:
+#      patterns[0]: /customers/*
